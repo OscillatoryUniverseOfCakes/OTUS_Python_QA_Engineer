@@ -1,2 +1,2 @@
-# -OTUS-Python-QA-Engineer
+# [OTUS] Python QA Engineer
 Course homeworks
