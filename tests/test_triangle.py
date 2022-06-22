@@ -1,11 +1,15 @@
 import pytest
 from src.Triangle import Triangle
-from src.Rectangle import Rectangle
 
 
 def test_tri_creat_err_redudant():
     with pytest.raises(ValueError):
         Triangle(1, 2, 3, 4)
+
+
+def test_tri_creat_err_possibility():
+    with pytest.raises(ValueError):
+        Triangle(1, 2, 1000)
 
 
 def test_tri_creat_err_negative_1():
