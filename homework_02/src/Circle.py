@@ -1,4 +1,4 @@
-from src.Figure import Figure
+from homework_02.src.Figure import Figure
 
 
 class Circle(Figure):

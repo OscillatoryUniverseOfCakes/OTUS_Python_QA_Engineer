@@ -1,5 +1,5 @@
 import pytest
-from src.Rectangle import Rectangle
+from homework_02.src.Rectangle import Rectangle
 
 
 def test_rec_creat_err_redudant():

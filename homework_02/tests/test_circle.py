@@ -1,5 +1,5 @@
 import pytest
-from src.Circle import Circle
+from homework_02.src import Circle
 
 
 def test_circl_creat_err_redudant_1():

@@ -1,5 +1,5 @@
 import pytest
-from src.Square import Square
+from homework_02.src.Square import Square
 
 
 def test_sqr_creat_err_redudant_1():

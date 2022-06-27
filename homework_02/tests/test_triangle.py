@@ -1,5 +1,5 @@
 import pytest
-from src.Triangle import Triangle
+from homework_02.src.Triangle import Triangle
 
 
 def test_tri_creat_err_redudant():
